@@ -1,0 +1,6 @@
+swiftbot
+swiftbot.tests.testbuttonlights
+swiftbot.tests.testcamera
+swiftbot.tests.testmovement
+swiftbot.tests.testultrasound
+swiftbot.tests.testunderlights
